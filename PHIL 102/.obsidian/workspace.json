@@ -11,10 +11,14 @@
             "id": "4944d41aa9f33442",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Intro.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Intro"
             }
           }
         ]
@@ -167,6 +171,6 @@
   },
   "active": "4944d41aa9f33442",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Intro.md"
   ]
 }
