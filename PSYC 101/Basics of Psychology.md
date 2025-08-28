@@ -37,5 +37,113 @@
 - Common sense
 - Psychobabble
 - Astrology, palm-reading, fortune-telling, etc.
-**Roots**
-- 
+### Psychology Roots
+**Ancient Greeks**
+- Aristotle (384-322 BC)
+	- "The soul is not separable from the body, and the same holds good of particular parts of the soul." Aristotle, De Anima, 350 BC - Similar to the definition of psychology
+- Hippocrates
+	- Greek father of medicine
+	- Humor theory - Mental health based on balance of 4 humors
+	- Head injuries - role of brain
+**Pseudopsychology is Born (Early to mid-1800's)**
+- Phrenology
+	- Joseph Gall
+	- Different brain areas account for specific character or personality traits, which can be "read" from bumps on the skull
+**Birth of Psychology as a Science (Late 1800's-Early 1900's)**
+- Wilhelm Wundt
+	- Founder of psychology as a science
+	- Scientific study of the mind
+- 1879: 1st psychology laboratory
+- "Atoms of the mind"
+- Objective Introspection: form of the self-reflection
+### Two opposing schools of thought (early 1900's)
+**Structuralism**
+- Big names: Wilhelm Wundt, E. B. Titchener
+- Big ideas:
+	- Analyze/describe sensations, images, and feelings into basic elements
+	- "What" happens?
+- Big problem:
+	- Conflicting reporting, too subjective
+**Functionalism**
+- Big name: William James
+- Big ideas:
+	- Function or purpose of behavior
+	- Brain and mind are constantly changing
+	- "How/why" does something happen?
+- Big problem:
+	- Lack of precise theory or research program
+	- Based on observing as much as possible, not on actual studies/research
+**Psychoanalysis (early 1900's)**
+- Sigmund Freud
+	- Viennese physician
+	- Clientele: rich, white women suffering from "hysteria" with no clear physical explanation
+	- Developed theories about role of past events and mental processes on mental disorders from his clients
+**Behaviorism Movement (1920's-1950's)**
+- Big names:
+	- John Watson, B. F. Skinner
+- Big idea:
+	- Science should be limited to observation
+	- Psychologists should not investigate mental processes/thoughts
+**Humanistic Movement (1960's-1970's)**
+- Big names:
+	- Abraham Maslow, Carl Rogers
+- Big ideas:
+	- Focus on people's need for love and acceptance
+	- Capacity to reach full potential
+**Cognitive Revolution (1970's-today)**
+- Mental events should not be ignored
+- New interest in studying the way the mind works and how it is influenced by biology and the environment
+- How can we understand more about how our physical and social states impact our mental states
+- We still carry the ideals from the Humanistic Movement
+- Facilitated by the advances in neuroscience
+### 7 Major Psychological Perspectives
+**Biological**
+- How bodily events affect behavior, feelings, and thoughts
+- Neuroscience, biopsychology, health psych
+**Learning/Behaviorism**
+- How environment and experience affect a person's actions
+- Behavioral psych, clinical psych
+**Cognitive**
+- Focuses on what goes on in people's heads
+- Cognitive psych
+**Sociocultural/Multiculturalism**
+- How social and cultural forces affect people
+- Social psych, industrial/organizational psych, community psych, developmental psych, personality psych
+**Psychodynamic**
+- Deals with unconscious dynamics within an individual
+- Clinical psych, counseling psych
+**Humanistic**
+- Focus on human capacity for growth and reaching potential
+- Clinical psych, counseling psych, positive psych
+**Evolutionary**
+- Examines biological explanations for universal mental traits
+- Comparative psych, biopsychology
+### 3 Main Areas of Work for Psychologists
+**Teaching**
+- Typically in college or university settings
+**Conducting Research**
+- Basic vs applied research
+**Providing mental health services**
+- Largest proportion of psychologists working in this area
+- Several common forms: Counseling Psychologists, Clinical Psychologists. Psychiatrists?
+### Counseling Psychologists
+**Typically help people with "everyday" challenges rather than serious mental disorders**
+- Marital problems, test anxiety, family conflicts, low motivation, etc.
+**Many forms of counseling provides**
+- In many states, anyone can call themselves a counselor
+- Most tend to receive a Master's degree in Counseling Psychology or Social Work
+### Clinical Psychologists
+**Diagnose, treat, and study mental disorders or emotional problems**
+**Usually work with clients who are more severely impaired than clients of counseling psychologists**
+**2 training paths to becoming a clinical psychologist**
+**Ph.D.**
+- Trained as a scientists AND a clinical practitioner
+- Receive research training as well as clinical practice training
+**Psy.D.**
+- Trained only as a clinical practitioner
+- Receives clinical practice training but little to no research training
+### Psychiatrists
+**Medical doctor (M.D.) - NOT A PSYCHOLOGIST**
+**Undergoes 3-year residency in psychiatry to learn to diagnose and treat mental disorders**
+**Can prescribe drugs**
+**Usually focus on biological causes of disorders**

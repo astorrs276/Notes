@@ -46,3 +46,6 @@ Developing a standard of something to which other instances can be compared
 	- Evaluation of a fact-value of the premises as accurately reflecting the world
 	- Good arguments are both valid and sound
 **"Valid"** is banned if used incorrectly
+**Truth vs Fact**
+- Truth - describes statements about the world that can be evaluated by logic and reason. Claims are truth evaluable
+- Facts - something that is true about the world that is evaluable evidence. Thingsin the world are or they are not
