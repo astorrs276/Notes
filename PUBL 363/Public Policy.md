@@ -34,6 +34,8 @@ It is a political call, representing a decision that "determines who gets what, 
 - Aimed at solving problems
 - Normative - makes explicit arguments about what policies should exist
 ### Why is it difficult to develop an effective cybersecurity policy?
-- The balance of economics, individual security, civil liberties, and national security is difficult to achieve and maintain
+- The balance of economics, individual security, civil liberties, national security, and privacy is difficult to achieve and maintain
 - Different people have different values and ideas of importance
 - Hard to measure the effectiveness of policies because a lot are based on individual incidents, not general trends
+- Laws would need to have no borders to have an effective impact
+- People creating the policies often don't fully understand the field
