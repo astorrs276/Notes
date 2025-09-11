@@ -14,7 +14,7 @@
 `%hd` - short integer (2 bytes)
 `%lld` - long long integer (8 bytes)
 `%Lf` - long double (12 bytes)
-### Other
+### Bitwise
 `&` (as unary operator) - "memory address that the variable begins at" (ex: `&x`)
 `&` (as binary operator) - bitwise AND (ex: `x & y`)
 `|` - bitwise OR
@@ -22,3 +22,10 @@
 `~` - bitwise complement
 `<<` - shift left (pad right with 0s)
 `>>` - shift right (pad left with 0s)
+### Pointers
+`<DataType> * <name>` - declare a pointer (ex: `int * x`)
+### Inclusions
+`#include <___>` for C libraries
+`#include "___"` for user-defined libraries in the same project folder - how to call functions outside of the current file
+### Other
+`<DataType> <name>[size]` - array declaration

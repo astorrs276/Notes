@@ -1,5 +1,5 @@
 ### Discuss
-**What is public policy?*
+**What is public policy?**
 - Rules, laws, directives
 **Who makes public policy?**
 - Elected (and sometimes unelected) officials

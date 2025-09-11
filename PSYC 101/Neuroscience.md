@@ -19,7 +19,7 @@ Resting Potential - state of neuron when NOT firing a neural impulse
 	- Outside cell - mostly positive charge (more + sodium ions than - chloride ions)
 - No flow because of the plasma membrane
 - Difference in charges creates electrical potential - primes it for an electrical impulse
-Neural Impluse
+Neural Impulse
 - Reverses electrical charge within axon
 - Sodium channels in membrane briefly open
 	- Allows + charged ions to enter axon
